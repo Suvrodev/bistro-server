@@ -1,0 +1,211 @@
+[
+    {
+        "index":"1",
+        "_id":"20192001010",
+        "id":"1",
+        "Name": "Sanjana Wusan",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01675-528035",
+        "CGPA": "3.35",
+        "photo":"3.25"
+    },
+    {
+        "index":"2",
+        "_id":"20192002010",
+        "id":"2",
+        "Name": "Abdullah Az Zahur",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01705-697897",
+        "CGPA": "3.28",
+        "photo":""
+    },
+    {
+        "index":"3",
+        "_id":"20192005010",
+        "id":"5",
+        "Name": "Dilruba Khatun",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01741-574411",
+        "CGPA": "3.38",
+        "photo":""
+    },
+    {
+        "index":"4",
+        "_id":"20192006010",
+        "id":"6",
+        "Name": "Sohan",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01910-251940",
+        "CGPA": "3.18",
+        "photo":""
+    },
+    {
+        "index":"5",
+        "_id":"20192009010",
+        "id":"9",
+        "Name": "Sajib Roy Chowdhury",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01994-544654",
+        "CGPA": "3.42",
+        "photo":""
+    },
+    {
+        "index":"6",
+        "_id":"20192010010",
+        "id":"10",
+        "Name": "Sajanta Rintu",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01630-838124",
+        "CGPA": "3.37",
+        "photo":""
+    },
+    {
+        "index":"7",
+        "_id":"20192011010",
+        "id":"11",
+        "Name": "Suvrodeb Howlader",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01951912997",
+        "CGPA": "3.38",
+        "photo":"https://media.licdn.com/dms/image/C4E03AQG_Y4KT7HwGsA/profile-displayphoto-shrink_200_200/0/1609584096496?e=1697673600&v=beta&t=FUldjs6PN9Gqv79v3q8Oum6DsDffT3MLHVk79p0-cno"
+    },
+    {
+        "index":"8",
+        "_id":"20192012010",
+        "id":"12",
+        "Name": "Muniya Sultana",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01775-850510",
+        "CGPA": "3.88",
+        "photo":""
+    },
+    {
+        "index":"9",
+        "_id":"20192014010",
+        "id":"14",
+        "Name": "Lamyea Islam",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01951-755386",
+        "CGPA": "3.82",
+        "photo":""
+    },
+    {
+        "index":"10",
+        "_id":"20192015010",
+        "id":"15",
+        "Name": "Jannatul Tasnim",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01874-090647",
+        "CGPA": "3.48",
+        "photo":"https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/380345226_3444921982428066_3204215480309065343_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeH7zQE3CnXC4gCTwpmAFGefWXmdG8g_wThZeZ0byD_BOKBxKnJLWOizCBtS-cVkDEaFyqfGp-JuTLSpEg8qwSWX&_nc_ohc=KKEu9BSZB3kAX_tdNby&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfDYHGQGdr03Ir_UiSahoEcSYsOCL522t85628TFAOCDDQ&oe=651A6056"
+    },
+    {
+        "index":"11",
+        "_id":"20192017010",
+        "id":"17",
+        "Name": "Rahomina Kona",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01701-344277",
+        "CGPA": "3.42",
+        "photo":""
+    },
+    {
+        "index":"12",
+        "_id":"20192021010",
+        "id":"21",
+        "Name": "Dhrubo Biswas",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01994493844",
+        "CGPA": "3.72",
+        "photo":""
+    },
+    {
+        "index":"13",
+        "_id":"20192022010",
+        "id":"22",
+        "Name": "Hridoy Biswas",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01982-656572",
+        "CGPA": "2.95",
+        "photo":""
+    },
+    {
+        "index":"14",
+        "_id":"20191017010",
+        "id":"1017",
+        "Name": "Aniruddah Biswas",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01736-102998",
+        "CGPA": "3.17",
+        "photo":""
+    },
+    {
+        "index":"15",
+        "_id":"20191069010",
+        "id":"1069",
+        "Name": "Zannatul Ferdous",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01402-218439",
+        "CGPA": "3.45",
+        "photo":""
+    },
+    {
+        "index":"16",
+        "_id":"20191071010",
+        "id":"1071",
+        "Name": "Munia Haque",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01971477860",
+        "CGPA": "",
+        "photo":"3.42"
+    },
+    {
+        "index":"17",
+        "_id":"20191091010",
+        "id":"1091",
+        "Name": "Tirtha Howlader",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01990-591732",
+        "CGPA": "2.92",
+        "photo":""
+    },
+    {
+        "index":"18",
+        "_id":"20191099010",
+        "id":"1099",
+        "Name": "AI Galib",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01644-072988",
+        "CGPA": "3.32",
+        "photo":""
+    },
+    {
+        "index":"19",
+        "_id":"20191105010",
+        "id":"1105",
+        "Name": "Sharmistha Mitra",
+        "Department":"CSE",
+        "Batch":"Summer-19",
+        "Phone":"01927679324",
+        "CGPA": "3.65",
+        "photo":""
+    }
+]
